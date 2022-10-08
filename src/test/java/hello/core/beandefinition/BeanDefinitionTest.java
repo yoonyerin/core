@@ -1,5 +1,5 @@
-package hello.core.beanDefinition;
-
+package hello.core.beandefinition;
+//깃헙 연습 3회차
 import hello.core.AppConfig;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
